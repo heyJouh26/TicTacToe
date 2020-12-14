@@ -7,7 +7,6 @@
 .container {
     display: flex;
     background: rgb(102, 175, 130);
-    /* background-image: url(/images/tac.jpg) no-repeat; */
     align-content: center;
     justify-content: center;
     flex-direction: column;
@@ -60,7 +59,7 @@ td:hover {
 
 body {
     display: flex;
-    background: url(/images/tic.jpg) no-repeat center center/cover;
+    background: url(/TicTacToe/images/tic.jpg) no-repeat center center/cover;
     height: 100vh;
     width: 100%;
     overflow: hidden;
